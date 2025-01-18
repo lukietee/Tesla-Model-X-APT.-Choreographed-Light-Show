@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.20</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>ROS &amp;amp; Bruno Mars - APT. (Official Lyric Video)</song>
+    <artist>Bruno Mars</artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>20 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\Users\lucas\Desktop\lightshow\music\lightshow.mp3</mediaFile>
+    <sequenceDuration>169.920</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect></Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="2949181" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Old View,Group View,Multishow Import View" active="1"/>
+    <Element collapsed="0" type="model" name="GRP Aux Park" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Channel 4" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Channel 5" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Channel 6" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Falcon Doors" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Doors (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Door Handles (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Fogs (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Turns (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Windows (Front)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Inner Main Beams" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Mirrors" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Outer Main Beams" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Door Handles (Rear)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Turns (Rear)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Windows (Rear)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Side Markers" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Side Repeaters" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Signatures" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Tesla Model S" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Tail Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Side Markers (Rear)" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Reverse Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="GRP Bed Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="LR Front Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="LR Rear Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="All Front Lightbars" visible="1"/>
+    <Element collapsed="0" type="model" name="All Rear Lightbars" visible="1"/>
+    <Element collapsed="0" type="model" name="All Front Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Front" visible="1"/>
+    <Element collapsed="0" type="model" name="Rear" visible="1"/>
+    <Element collapsed="0" type="model" name="All Suspensions" visible="1"/>
+    <Element collapsed="0" type="model" name="All Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="All Mirrors" visible="1"/>
+    <Element collapsed="0" type="model" name="All Charge Ports" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Channel 4-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Channel 4-6" visible="1"/>
+    <Element collapsed="0" type="model" name="All Channel 4-6" visible="1"/>
+    <Element collapsed="0" type="model" name="All Signatures" visible="1"/>
+    <Element collapsed="0" type="model" name="All Inner Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="All Outer Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="All Front Turns" visible="1"/>
+    <Element collapsed="0" type="model" name="All Side Markers" visible="1"/>
+    <Element collapsed="0" type="model" name="All Aux Parks" visible="1"/>
+    <Element collapsed="0" type="model" name="All Front Fogs" visible="1"/>
+    <Element collapsed="0" type="model" name="All Rear Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="All Brake Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="All Tail Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="All Rear Turns" visible="1"/>
+    <Element collapsed="0" type="model" name="All License Plates" visible="1"/>
+    <Element collapsed="0" type="model" name="All Reverse Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="All Rear Fogs" visible="1"/>
+    <Element collapsed="0" type="model" name="All Side Repeaters" visible="1"/>
+    <Element collapsed="0" type="model" name="All Falcon Doors" visible="1"/>
+    <Element collapsed="0" type="model" name="All Front Doors" visible="1"/>
+    <Element collapsed="0" type="model" name="All Doors Handles" visible="1"/>
+    <Element collapsed="0" type="model" name="All Liftgates" visible="1"/>
+    <Element collapsed="0" type="model" name="All Offroad Light Bars" visible="1"/>
+    <Element collapsed="0" type="model" name="All Accent Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="All Interior RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="Center Front Display" visible="1"/>
+    <Element collapsed="0" type="model" name="Center Front RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Front Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Rear Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Rear Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="Offroad Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Front Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="Rear Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="Suspension" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Light Bar" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Charge Port" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Rear Window" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Front Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Powered Frunk" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Frunk Light" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Bed Light" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Reverse Light" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Rear Side Marker" visible="1"/>
+    <Element collapsed="0" type="model" name="CT License Plate" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Rear Turn" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Brake Light" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Mirror" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Front Side Marker" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Front Turn" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Outer Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Inner Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Inner Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Rear Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Tail" visible="1"/>
+    <Element collapsed="0" type="model" name="Brake Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Charge Port" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Rear Door Handle" visible="1"/>
+    <Element collapsed="0" type="model" name="License Plate" visible="1"/>
+    <Element collapsed="0" type="model" name="Rear Fog Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Reverse Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Tail" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Outer Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Outer Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Inner Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Inner Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Signature" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Signature" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Channel 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Channel 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Channel 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Channel 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Front Turn" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Channel 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Channel 6" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Front Turn" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Side Repeater" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Front Fog" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Front Fog" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Side Marker" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Side Repeater" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Aux Park" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Aux Park" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Rear Turn" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Side Marker" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Rear Turn" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Mirror" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Front Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Front Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Falcon Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Falcon Door" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Rear Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Front Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Mirror" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Front Door Handle" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Rear Door Handle" visible="1"/>
+    <Element collapsed="0" type="model" name="Liftgate" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Front Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Front Door Handle" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Outer Main Beam" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Front Turn" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Front Side Marker" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Mirror" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Rear Turn" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Rear Side Marker" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Reverse Light" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Bed Light" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Front Window" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Rear Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Front RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Front RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="Right Rear RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="Left Rear RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Center Front Display" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Rear RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Right Front RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Center Front RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Front RGB" visible="1"/>
+    <Element collapsed="0" type="model" name="CT Left Rear RGB" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Aux Park">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Channel 4">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Channel 5">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Channel 6">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Falcon Doors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Doors (Front)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Door Handles (Front)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Fogs (Front)">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Turns (Front)">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Windows (Front)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Inner Main Beams">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Mirrors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Outer Main Beams">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Door Handles (Rear)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Turns (Rear)">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="640" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1040" endTime="1680" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1840" endTime="2480" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="3440" endTime="4080" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="6" startTime="5040" endTime="5680" palette="0"/>
+        <Effect ref="0" name="On" id="7" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Windows (Rear)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Side Markers">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Side Repeaters">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Signatures">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Tesla Model S">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Tail Lights">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="640" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1040" endTime="1680" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1840" endTime="2480" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="3440" endTime="4080" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="6" startTime="5040" endTime="5680" palette="0"/>
+        <Effect ref="0" name="On" id="7" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="GRP Side Markers (Rear)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Reverse Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="GRP Bed Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LR Front Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="LR Rear Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Front Lightbars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Rear Lightbars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Front Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rear">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Suspensions">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Mirrors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Charge Ports">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Channel 4-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Channel 4-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Channel 4-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Signatures">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Inner Main Beam">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Outer Main Beam">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Front Turns">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Side Markers">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Aux Parks">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Front Fogs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Rear Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Brake Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Tail Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Rear Turns">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All License Plates">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Reverse Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Rear Fogs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Side Repeaters">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Falcon Doors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Front Doors">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Doors Handles">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Liftgates">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Offroad Light Bars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Accent Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Interior RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Center Front Display">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Center Front RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Front Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Rear Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Rear Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Offroad Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Front Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rear Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Suspension">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Light Bar">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Charge Port">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Rear Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Front Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Powered Frunk">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Frunk Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Bed Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Reverse Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Rear Side Marker">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT License Plate">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Rear Turn">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Brake Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Mirror">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Front Side Marker">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Front Turn">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Outer Main Beam">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Inner Main Beam">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Inner Main Beam">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Rear Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Tail">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Brake Lights">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="640" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1040" endTime="1680" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1840" endTime="2480" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="3440" endTime="4080" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="6" startTime="5040" endTime="5680" palette="0"/>
+        <Effect ref="0" name="On" id="7" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Charge Port">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Rear Door Handle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="License Plate">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rear Fog Lights">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="640" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1040" endTime="1680" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1840" endTime="2480" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="3440" endTime="4080" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="6" startTime="5040" endTime="5680" palette="0"/>
+        <Effect ref="0" name="On" selected="1" id="7" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Reverse Lights">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="640" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1040" endTime="1680" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1840" endTime="2480" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="2640" endTime="2720" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="3440" endTime="4080" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="4240" endTime="4320" palette="0"/>
+        <Effect ref="0" name="On" id="6" startTime="5040" endTime="5680" palette="0"/>
+        <Effect ref="0" name="On" id="7" startTime="5840" endTime="5920" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Tail">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Outer Main Beam">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="160" endTime="240" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="560" endTime="640" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1200" endTime="1280" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="1600" endTime="1680" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="2000" endTime="2080" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="2400" endTime="2480" palette="0"/>
+        <Effect ref="0" name="On" id="6" startTime="3600" endTime="3680" palette="0"/>
+        <Effect ref="0" name="On" id="7" startTime="4000" endTime="4080" palette="0"/>
+        <Effect ref="0" name="On" id="8" startTime="5200" endTime="5280" palette="0"/>
+        <Effect ref="0" name="On" id="9" startTime="5600" endTime="5680" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Outer Main Beam">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="160" endTime="240" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="560" endTime="640" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1200" endTime="1280" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="1600" endTime="1680" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="2000" endTime="2080" palette="0"/>
+        <Effect ref="0" name="On" id="5" startTime="2400" endTime="2480" palette="0"/>
+        <Effect ref="0" name="On" id="6" startTime="3600" endTime="3680" palette="0"/>
+        <Effect ref="0" name="On" id="7" startTime="4000" endTime="4080" palette="0"/>
+        <Effect ref="0" name="On" id="8" startTime="5200" endTime="5280" palette="0"/>
+        <Effect ref="0" name="On" id="9" startTime="5600" endTime="5680" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Inner Main Beam">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="240" endTime="320" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1280" endTime="1360" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="2080" endTime="2160" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3680" endTime="3760" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5280" endTime="5360" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Inner Main Beam">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="240" endTime="320" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1280" endTime="1360" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="2080" endTime="2160" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3680" endTime="3760" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5280" endTime="5360" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Signature">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Signature">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Channel 4">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="480" endTime="560" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1520" endTime="1600" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="2320" endTime="2400" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3920" endTime="4000" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5520" endTime="5600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Channel 4">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="480" endTime="560" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1520" endTime="1600" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="2320" endTime="2400" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3920" endTime="4000" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5520" endTime="5600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Channel 5">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="400" endTime="480" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1440" endTime="1520" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="2240" endTime="2320" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3840" endTime="3920" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5440" endTime="5520" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Channel 5">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="400" endTime="480" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1440" endTime="1520" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="2240" endTime="2320" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3840" endTime="3920" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5440" endTime="5520" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Front Turn">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="80" endTime="160" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1120" endTime="1200" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1920" endTime="2000" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3520" endTime="3600" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5120" endTime="5200" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Channel 6">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="320" endTime="400" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1360" endTime="1440" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="2160" endTime="2240" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3760" endTime="3840" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5360" endTime="5440" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Channel 6">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="320" endTime="400" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1360" endTime="1440" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="2160" endTime="2240" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3760" endTime="3840" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5360" endTime="5440" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Front Turn">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="80" endTime="160" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1120" endTime="1200" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1920" endTime="2000" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3520" endTime="3600" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5120" endTime="5200" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Side Repeater">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Front Fog">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Front Fog">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Side Marker">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Side Repeater">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Aux Park">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="80" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1040" endTime="1120" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1840" endTime="1920" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3440" endTime="3520" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5040" endTime="5120" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Right Aux Park">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="80" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="1040" endTime="1120" palette="0"/>
+        <Effect ref="0" name="On" id="2" startTime="1840" endTime="1920" palette="0"/>
+        <Effect ref="0" name="On" id="3" startTime="3440" endTime="3520" palette="0"/>
+        <Effect ref="0" name="On" id="4" startTime="5040" endTime="5120" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Left Rear Turn">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Side Marker">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Rear Turn">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Mirror">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Front Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Front Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Falcon Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Falcon Door">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Rear Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Front Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Mirror">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Front Door Handle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Rear Door Handle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Liftgate">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Front Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Front Door Handle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Outer Main Beam">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Front Turn">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Front Side Marker">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Mirror">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Rear Turn">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Rear Side Marker">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Reverse Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Bed Light">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Front Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Rear Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Front RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Front RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Right Rear RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Left Rear RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Center Front Display">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Rear RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Right Front RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Center Front RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Front RGB">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CT Left Rear RGB">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>2</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
